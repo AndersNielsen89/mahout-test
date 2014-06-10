@@ -1,0 +1,9 @@
+/target/
+*~
+/.classpath
+/.project
+/.settings/
+/appledata/
+
+
+/.settings/org.eclipse.core.resources.prefs
