@@ -22,9 +22,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Anders/WSTWorkspace/mahoutrec/lib/commons-cli-2.0-mahout.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Anders/WSTWorkspace/mahoutrec/lib/mahout-core-0.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Anders/WSTWorkspace/mahoutrec/lib/mahout-integration-0.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Anders/WSTWorkspace/mahoutrec/lib/mahout-math-0.9.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
