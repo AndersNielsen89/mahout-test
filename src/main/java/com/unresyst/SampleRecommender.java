@@ -23,7 +23,7 @@ public class SampleRecommender
 {
     public static void main( String[] args ) throws TasteException
     {
-    	System.out.println( "Freeletics" );
+    	System.out.println( "Emil moder" );
     	try {
 			DataModel model = new FileDataModel(new File("dataset.csv"));
 			
