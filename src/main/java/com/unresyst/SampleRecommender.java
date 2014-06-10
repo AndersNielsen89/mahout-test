@@ -25,7 +25,7 @@ public class SampleRecommender
     {
     	System.out.println( "Hello World!" );
     	try {
-			DataModel model = new FileDataModel(new File("C:\\dataset.csv"));
+			DataModel model = new FileDataModel(new File("dataset.csv"));
 			
 			System.out.println("Imported dataset");
 			UserSimilarity similarity = new PearsonCorrelationSimilarity(model);
